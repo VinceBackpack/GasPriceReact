@@ -1,1 +1,1 @@
-# GasPriceReact
+# HearthStoneReact
